@@ -14,14 +14,14 @@ body {
 }
 
 .wrap {
-	width: 100%;
+	width: 90%;
 	max-width: 1000px;
 	/*margin:auto;*/
 }
 
 .widget {
 	width: 100%;
-	margin: 9em;
+	margin: 2em;
 	/*margin:32px; */
 }
 
@@ -33,19 +33,19 @@ body {
 .fecha {
 	font-family: Oswald, Arial;
 	text-align: center;
-	font-size:2em;
+	font-size:1.2em;
 	margin-bottom: 0.3125rem;
 	/*margin-bottom: 5px;*/
 	background: rgba(255,170,0,.5);
 	padding: 20px;
-	width: 100%;
+	width: 20%;
 }
 
 .reloj {
 	font-family: Oswald, Arial;
-	width: 100%;
+	width: 20%;
 	padding: 20px;
-	font-size: 5em;
+	font-size: 1.2em;
 	text-align: center;
 	background: rgba(0,0,0,.5);
 }
@@ -56,6 +56,6 @@ body {
 
 .reloj .segundos,
 .reloj .ampm {
-	font-size: 2rem;
+	font-size: 1.2rem;
 	display: block;
 }
