@@ -14,14 +14,14 @@ body {
 }
 
 .wrap {
-	width: 90%;
+	width: 100%;
 	max-width: 1000px;
 	/*margin:auto;*/
 }
 
 .widget {
-	width: 40%;
-	margin: 2em;
+	width: 100%;
+	margin: 9em;
 	/*margin:32px; */
 }
 
@@ -33,7 +33,7 @@ body {
 .fecha {
 	font-family: Oswald, Arial;
 	text-align: center;
-	font-size:1.5em;
+	font-size:2em;
 	margin-bottom: 0.3125rem;
 	/*margin-bottom: 5px;*/
 	background: rgba(255,170,0,.5);
@@ -45,7 +45,7 @@ body {
 	font-family: Oswald, Arial;
 	width: 100%;
 	padding: 20px;
-	font-size: 4em;
+	font-size: 5em;
 	text-align: center;
 	background: rgba(0,0,0,.5);
 }
